@@ -1,4 +1,4 @@
-# elements-live-com
+# Elements Live
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,112 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-elements-live-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://elements-live.com/
+Elements Live provides a real-time scientific research trends dashboard covering all 118 chemical elements. It offers Research Intensity Scores derived from live publication volume and citation data, spanning over a century of history. Users can explore citation networks, publication impact, and trend analytics across disciplines, enabling data-driven insights into scientific activity.
+
+**Areas:** Research · Science · Metrics · Dashboard · Data
+
+## Elements Live on APIs.io
+
+Everything profiled for Elements Live is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/elements-live-com/](https://apis.io/providers/elements-live-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [Elements Live Elements API](https://apis.io/apis/elements-live-com/elements-live-com-elements-api/) — The Elements API from Elements Live — 4 operation(s) for elements.
+- [Elements Live Lab API](https://apis.io/apis/elements-live-com/elements-live-com-lab-api/) — The Lab API from Elements Live — 2 operation(s) for lab.
+- [Elements Live Research API](https://apis.io/apis/elements-live-com/elements-live-com-research-api/) — The Research API from Elements Live — 1 operation(s) for research.
+- [Elements Live Subjects API](https://apis.io/apis/elements-live-com/elements-live-com-subjects-api/) — The Subjects API from Elements Live — 5 operation(s) for subjects.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Elements Live Com Agentic Access](https://apis.io/agentic-access/elements-live-com/elements-live-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Elements Live API Rules](https://apis.io/rules/elements-live-com/elements-live-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Elements Live Com Authentication](https://apis.io/security/elements-live-com/elements-live-com-authentication/)
+- [Elements Live Com Domain Security](https://apis.io/security/elements-live-com/elements-live-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Elements Live Com Plans Pricing](https://apis.io/plans/elements-live-com/elements-live-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://elements-live.com/)
+- [API reference](https://www.elements-live.com/docs/api)
+- [Pricing](https://www.elements-live.com/pricing)
+- [Terms of service](https://www.elements-live.com/terms)
+- [Privacy policy](https://www.elements-live.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 43.6** — developing · rubric 0.27.0 · scored 2026-11-06
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 39.9 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 25.5 |
+| Access clarity | 63.7 |
+
+**Agent readiness 33.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/elements-live-com/](https://apis.io/providers/elements-live-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Elements Live: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/elements-live-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
